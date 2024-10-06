@@ -7,32 +7,32 @@
         "telethon",
         "telegram-bot"
     ],
-    "repository": "https://github.com/ShikariBaaZ/ForceSub_Bot",
-    "success_url": "https://t.me/The_SHIKARI_Network",
+    "repository": "https://github.com/shenXaryan/ForceSub_Bot",
+    "success_url": "https://t.me/+zcNPiCtKlVM5MjU1",
     "env": {
         "API_HASH": {
             "description": "Your API HASH Get it from my.telegram.org",
-            "value": ""
+            "value": "959c2bb02b08982d0d4081572364381c"
         },
         "API_ID": {
             "description": "Your API ID Get it from my.telegram.org",
-            "value": ""
+            "value": "22943180"
         },
         "BOT_TOKEN": {
             "description": "Bot Token, Get it from @BotFather.",
-            "value": ""
+            "value": "7985571372:AAG8Bc2MzxHNwdOlID-u15cIjnoANrXASKE"
         },
         "CHANNEL": {
             "description": "Your Channel @username for force join.",
-            "value": ""
+            "value": "https://t.me/+zcNPiCtKlVM5MjU1"
         },
         "WELCOME_MSG": {
             "description": "welcome message For USERS to display. Can be formatted with {mention}, {title}, {fullname}, {username}, {name}, {last}, {channel}.",
-            "value": ""
+            "value": "Join @dawncheats to get started using our bot service"
         },
         "WELCOME_NOT_JOINED": {
             "description": "The welcome message to display if user hasn't joined your channel. Can be formatted with {mention}, {title}, {fullname}, {username}, {name}, {last}, {channel}.",
-            "value": ""
+            "value": "CHANNEL NOT JONED ❌ Make Sure That you have Joined our Channel"
         },
         "ON_JOIN": {
             "description": "True/False. To configure if user must be muted directly on joining",
